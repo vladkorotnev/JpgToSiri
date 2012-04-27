@@ -1,0 +1,355 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		824E47C7154AF29000079F84 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 824E47C6154AF29000079F84 /* Foundation.framework */; };
+		824E47C9154AF29000079F84 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 824E47C8154AF29000079F84 /* UIKit.framework */; };
+		824E47D9154AF29200079F84 /* JpgToCommands.m in Sources */ = {isa = PBXBuildFile; fileRef = 824E47D8154AF29200079F84 /* JpgToCommands.m */; };
+		824E47DC154AF29200079F84 /* JpgToSnippet.m in Sources */ = {isa = PBXBuildFile; fileRef = 824E47DB154AF29200079F84 /* JpgToSnippet.m */; };
+		824E47DF154AF29200079F84 /* JpgToExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 824E47DE154AF29200079F84 /* JpgToExtension.m */; };
+		824E47E7154AF52200079F84 /* JpgToNib.xib in Resources */ = {isa = PBXBuildFile; fileRef = 824E47E0154AF29200079F84 /* JpgToNib.xib */; };
+		82DD76FE154B011F00953975 /* Twitter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 82DD76FD154B011F00953975 /* Twitter.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		824E47C3154AF29000079F84 /* JpgTo.assistantExtension */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JpgTo.assistantExtension; sourceTree = BUILT_PRODUCTS_DIR; };
+		824E47C6154AF29000079F84 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		824E47C8154AF29000079F84 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		824E47CD154AF29200079F84 /* control.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = control.txt; path = Package/DEBIAN/control.txt; sourceTree = "<group>"; };
+		824E47CE154AF29200079F84 /* control */ = {isa = PBXFileReference; lastKnownFileType = text; name = control; path = Package/DEBIAN/control; sourceTree = "<group>"; };
+		824E47D0154AF29200079F84 /* PackageVersion.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PackageVersion.plist; sourceTree = "<group>"; };
+		824E47D1154AF29200079F84 /* JpgTo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JpgTo-Info.plist"; sourceTree = "<group>"; };
+		824E47D5154AF29200079F84 /* 0xdeadfa11 */ = {isa = PBXFileReference; lastKnownFileType = text; name = 0xdeadfa11; path = Package/Library/AssistantExtensions/JpgTo.assistantExtension/0xdeadfa11; sourceTree = "<group>"; };
+		824E47D6154AF29200079F84 /* JpgTo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JpgTo-Prefix.pch"; sourceTree = "<group>"; };
+		824E47D7154AF29200079F84 /* JpgToCommands.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JpgToCommands.h; sourceTree = "<group>"; };
+		824E47D8154AF29200079F84 /* JpgToCommands.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JpgToCommands.m; sourceTree = "<group>"; };
+		824E47DA154AF29200079F84 /* JpgToSnippet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JpgToSnippet.h; sourceTree = "<group>"; };
+		824E47DB154AF29200079F84 /* JpgToSnippet.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JpgToSnippet.m; sourceTree = "<group>"; };
+		824E47DD154AF29200079F84 /* JpgToExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JpgToExtension.h; sourceTree = "<group>"; };
+		824E47DE154AF29200079F84 /* JpgToExtension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JpgToExtension.m; sourceTree = "<group>"; };
+		824E47E0154AF29200079F84 /* JpgToNib.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = JpgToNib.xib; sourceTree = "<group>"; };
+		82DD76FD154B011F00953975 /* Twitter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Twitter.framework; path = System/Library/Frameworks/Twitter.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		824E47BF154AF29000079F84 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				82DD76FE154B011F00953975 /* Twitter.framework in Frameworks */,
+				824E47C7154AF29000079F84 /* Foundation.framework in Frameworks */,
+				824E47C9154AF29000079F84 /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		824E47B7154AF28B00079F84 = {
+			isa = PBXGroup;
+			children = (
+				82DD76FD154B011F00953975 /* Twitter.framework */,
+				824E47CA154AF29100079F84 /* JpgTo */,
+				824E47C5154AF29000079F84 /* Frameworks */,
+				824E47C4154AF29000079F84 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		824E47C4154AF29000079F84 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				824E47C3154AF29000079F84 /* JpgTo.assistantExtension */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		824E47C5154AF29000079F84 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				824E47C6154AF29000079F84 /* Foundation.framework */,
+				824E47C8154AF29000079F84 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		824E47CA154AF29100079F84 /* JpgTo */ = {
+			isa = PBXGroup;
+			children = (
+				824E47D7154AF29200079F84 /* JpgToCommands.h */,
+				824E47D8154AF29200079F84 /* JpgToCommands.m */,
+				824E47DA154AF29200079F84 /* JpgToSnippet.h */,
+				824E47DB154AF29200079F84 /* JpgToSnippet.m */,
+				824E47DD154AF29200079F84 /* JpgToExtension.h */,
+				824E47DE154AF29200079F84 /* JpgToExtension.m */,
+				824E47E0154AF29200079F84 /* JpgToNib.xib */,
+				824E47CB154AF29200079F84 /* Package */,
+				824E47CF154AF29200079F84 /* Supporting Files */,
+			);
+			path = JpgTo;
+			sourceTree = "<group>";
+		};
+		824E47CB154AF29200079F84 /* Package */ = {
+			isa = PBXGroup;
+			children = (
+				824E47CC154AF29200079F84 /* DEBIAN */,
+				824E47D2154AF29200079F84 /* Library */,
+			);
+			name = Package;
+			sourceTree = "<group>";
+		};
+		824E47CC154AF29200079F84 /* DEBIAN */ = {
+			isa = PBXGroup;
+			children = (
+				824E47CD154AF29200079F84 /* control.txt */,
+				824E47CE154AF29200079F84 /* control */,
+			);
+			name = DEBIAN;
+			sourceTree = "<group>";
+		};
+		824E47CF154AF29200079F84 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				824E47D0154AF29200079F84 /* PackageVersion.plist */,
+				824E47D1154AF29200079F84 /* JpgTo-Info.plist */,
+				824E47D6154AF29200079F84 /* JpgTo-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		824E47D2154AF29200079F84 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				824E47D3154AF29200079F84 /* AssistantExtensions */,
+			);
+			name = Library;
+			sourceTree = "<group>";
+		};
+		824E47D3154AF29200079F84 /* AssistantExtensions */ = {
+			isa = PBXGroup;
+			children = (
+				824E47D4154AF29200079F84 /* ___PACKAGENAME___.assistantExtension */,
+			);
+			name = AssistantExtensions;
+			sourceTree = "<group>";
+		};
+		824E47D4154AF29200079F84 /* ___PACKAGENAME___.assistantExtension */ = {
+			isa = PBXGroup;
+			children = (
+				824E47D5154AF29200079F84 /* 0xdeadfa11 */,
+			);
+			name = "___PACKAGENAME___.assistantExtension";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		824E47C0154AF29000079F84 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		824E47C2154AF29000079F84 /* JpgTo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 824E47E3154AF29200079F84 /* Build configuration list for PBXNativeTarget "JpgTo" */;
+			buildPhases = (
+				824E47BE154AF29000079F84 /* Sources */,
+				824E47BF154AF29000079F84 /* Frameworks */,
+				824E47E6154AF51D00079F84 /* Resources */,
+				824E47C0154AF29000079F84 /* Headers */,
+				824E47C1154AF29000079F84 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JpgTo;
+			productName = JpgTo;
+			productReference = 824E47C3154AF29000079F84 /* JpgTo.assistantExtension */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		824E47B9154AF28B00079F84 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 824E47BC154AF28B00079F84 /* Build configuration list for PBXProject "JpgTo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 824E47B7154AF28B00079F84;
+			productRefGroup = 824E47C4154AF29000079F84 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				824E47C2154AF29000079F84 /* JpgTo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		824E47E6154AF51D00079F84 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				824E47E7154AF52200079F84 /* JpgToNib.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		824E47C1154AF29000079F84 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/opt/iOSOpenDev/bin/iosod --xcbp";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		824E47BE154AF29000079F84 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				824E47D9154AF29200079F84 /* JpgToCommands.m in Sources */,
+				824E47DC154AF29200079F84 /* JpgToSnippet.m in Sources */,
+				824E47DF154AF29200079F84 /* JpgToExtension.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		824E47E1154AF29200079F84 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "*.nib *.lproj *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(iOSOpenDevPath)/include/**";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				LIBRARY_SEARCH_PATHS = "$(iOSOpenDevPath)/lib/**";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				iOSOpenDevPath = /opt/iOSOpenDev;
+			};
+			name = Release;
+		};
+		824E47E2154AF29200079F84 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "*.nib *.lproj *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(iOSOpenDevPath)/include/**";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				LIBRARY_SEARCH_PATHS = "$(iOSOpenDevPath)/lib/**";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = NO;
+				iOSOpenDevPath = /opt/iOSOpenDev;
+			};
+			name = Debug;
+		};
+		824E47E4154AF29200079F84 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "JpgTo/JpgTo-Prefix.pch";
+				INFOPLIST_FILE = "JpgTo/JpgTo-Info.plist";
+				INSTALL_PATH = /Library/AssistantExtensions;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = assistantExtension;
+				iOSOpenDevCopyOnBuild = NO;
+				iOSOpenDevDevice = "";
+				iOSOpenDevInstallOnAnyBuild = NO;
+				iOSOpenDevInstallOnProfiling = NO;
+				iOSOpenDevRespringOnInstall = NO;
+				iOSOpenDevUsePackageVersionPList = YES;
+			};
+			name = Release;
+		};
+		824E47E5154AF29200079F84 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "JpgTo/JpgTo-Prefix.pch";
+				INFOPLIST_FILE = "JpgTo/JpgTo-Info.plist";
+				INSTALL_PATH = /Library/AssistantExtensions;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = assistantExtension;
+				iOSOpenDevCopyOnBuild = NO;
+				iOSOpenDevDevice = "";
+				iOSOpenDevInstallOnAnyBuild = NO;
+				iOSOpenDevInstallOnProfiling = NO;
+				iOSOpenDevRespringOnInstall = NO;
+				iOSOpenDevUsePackageVersionPList = YES;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		824E47BC154AF28B00079F84 /* Build configuration list for PBXProject "JpgTo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				824E47E1154AF29200079F84 /* Release */,
+				824E47E2154AF29200079F84 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		824E47E3154AF29200079F84 /* Build configuration list for PBXNativeTarget "JpgTo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				824E47E4154AF29200079F84 /* Release */,
+				824E47E5154AF29200079F84 /* Debug */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 824E47B9154AF28B00079F84 /* Project object */;
+}

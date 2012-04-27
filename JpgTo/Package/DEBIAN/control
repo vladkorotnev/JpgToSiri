@@ -1,0 +1,17 @@
+Package: com.vladkorotnev.JpgToSiri
+Name: JpgToSiri
+Version: 1.0
+Description: Ask Siri "Show me a picture of something"
+Section: Addons (AssistantExtensions)
+Depends: firmware (>= 5.0), gsc.assistant, mobilesubstrate, me.k3a.ae
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: Vladislav Korotnev
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+

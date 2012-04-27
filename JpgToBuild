@@ -1,0 +1,3 @@
+#!/bin/bash
+cp -r /Users/tigra/Desktop/Coding/JpgTo/DerivedData/JpgTo/ArchiveIntermediates/JpgTo/BuildProductsPath/Release-iphoneos/JpgTo.assistantExtension /Users/tigra/Desktop/Coding/JpgTo/JpgTo/Package/Library/AssistantExtensions/
+dpkg-deb -b /Users/tigra/Desktop/Coding/JpgTo/JpgTo/Package
