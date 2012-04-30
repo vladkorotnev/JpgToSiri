@@ -1,0 +1,28 @@
+Contents of /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgTo-Prefix.pch
+3.0 (tags/Apple/clang-211.9) (based on LLVM 3.0svn)
+arm-apple-darwin11.3.0
+-x
+c
+-arch
+armv7
+-fmessage-length=0
+-fdiagnostics-print-source-range-info
+-fdiagnostics-show-category=id
+-fdiagnostics-parseable-fixits
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+-gdwarf-2
+-mthumb
+-miphoneos-version-min=5.0
+-I/Users/tigra/Desktop/Coding/JpgTo/DerivedData/JpgTo/Build/Products/Debug-iphoneos/include
+-I/opt/iOSOpenDev/include
+-I/opt/iOSOpenDev/include/ActionMenu
+-I/opt/iOSOpenDev/include/AssistantExtensions
+-I/opt/iOSOpenDev/include/CaptainHook
+-I/opt/iOSOpenDev/include/libactivator
+-F/Users/tigra/Desktop/Coding/JpgTo/DerivedData/JpgTo/Build/Products/Debug-iphoneos
+SDK_PRODUCT_BUILD_VERSION=9A5313e

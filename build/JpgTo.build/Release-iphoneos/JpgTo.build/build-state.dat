@@ -1,0 +1,544 @@
+TJpgTo
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/Info.plist JpgTo/JpgTo-Info.plist
+cProcessPCH /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-benzdpmoycdptugopiddskenkjqe/JpgTo-Prefix.pch.pth JpgTo/JpgTo-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-hfozxbotxsxihggqxwnhvzavjejp/JpgTo-Prefix.pch.pth JpgTo/JpgTo-Prefix.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToCommands.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToCommands.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToSnippet.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToSnippet.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToExtension.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToExtension.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/nameprep.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/nameprep.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/puny.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/race.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/toxxx.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/toxxx.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/util.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/util.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/NSURL+IFUnicodeURL.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/NSURL+IFUnicodeURL.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo normal armv7
+cGenerateDSYMFile /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension.dSYM /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo
+cCompileXIB /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToNib.xib
+cPhaseScriptExecution "Run Script" /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Script-824E47C1154AF29000079F84.sh
+cTouch /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+c000000004F363B630000000000000132
+t1328954211
+s306
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E571D530000000000519410
+t1314331987
+s5346320
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Twitter.framework/Twitter
+c000000004E59B7C20000000000030E20
+t1314502594
+s200224
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E572CB0000000000078BCC0
+t1314335920
+s7912640
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/nameprep.c
+c000000004BD0CDD100000000000061DB
+t1271975377
+s25051
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/nameprep.h
+c000000003E9431840000000000003743
+t1049899396
+s14147
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c
+c000000004BD0907A0000000000003AFB
+t1271959674
+s15099
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.h
+c000000003E94802E0000000000001AC6
+t1049919534
+s6854
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c
+c000000004BD090CD0000000000003E1B
+t1271959757
+s15899
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.h
+c000000003E9431840000000000002620
+t1049899396
+s9760
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/staticdata/nameprep_bidi_lcat.h
+c000000003E94802E0000000000004109
+t1049919534
+s16649
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/staticdata/nameprep_bidi_randalcat.h
+c000000003E94802E00000000000036CB
+t1049919534
+s14027
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/staticdata/nameprep_charmap.h
+c000000003E94802E00000000000218F4
+t1049919534
+s137460
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/staticdata/nameprep_compatible.h
+c000000003E94802E000000000000A527
+t1049919534
+s42279
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/staticdata/nameprep_compose.h
+c000000003E94802E000000000001CF08
+t1049919534
+s118536
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/staticdata/nameprep_cononical.h
+c000000003E94802E0000000000004066
+t1049919534
+s16486
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/staticdata/nameprep_data.h
+c000000004BD08D090000000000000583
+t1271958793
+s1411
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/staticdata/nameprep_datastructures.h
+c000000004BD08EB50000000000000FCC
+t1271959221
+s4044
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/staticdata/nameprep_decompose.h
+c000000003E94802E0000000000057841
+t1049919534
+s358465
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/staticdata/nameprep_lookups.h
+c000000004BD08D170000000000001C4D
+t1271958807
+s7245
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/staticdata/nameprep_prohibit_allowunassigned.h
+c000000003E94802E0000000000000796
+t1049919534
+s1942
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/toxxx.c
+c00000000404E5E3D0000000000007142
+t1078877757
+s28994
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/toxxx.h
+c000000003EE0A1820000000000003510
+t1054908802
+s13584
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/util.c
+c000000004BD090E30000000000005509
+t1271959779
+s21769
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/util.h
+c000000003EA5A2720000000000003374
+t1051042418
+s13172
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/xcode.h
+c000000003E9431840000000000001E2C
+t1049899396
+s7724
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/xcode_config.h
+c000000004BD08F83000000000000475B
+t1271959427
+s18267
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgTo-Prefix.pch
+c000000004F9ABB1200000000000000B3
+t1335540498
+s179
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToCommands.h
+c000000004F9ABB12000000000000024C
+t1335540498
+s588
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToCommands.m
+c000000004F9EDA8400000000000030EF
+t1335810692
+s12527
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToExtension.h
+c000000004F9ABB1200000000000002AF
+t1335540498
+s687
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToExtension.m
+c000000004F9AC55A00000000000002FB
+t1335543130
+s763
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToNib.xib
+c000000004F9ACF170000000000003C0B
+t1335545623
+s15371
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToSnippet.h
+c000000004F9ACCEC00000000000004FA
+t1335545068
+s1274
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToSnippet.m
+c000000004F9ACF4000000000000009D7
+t1335545664
+s2519
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/NSURL+IFUnicodeURL.h
+c000000004BD1E40F0000000000000466
+t1272046607
+s1126
+
+N/Users/tigra/Desktop/Coding/JpgTo/JpgTo/NSURL+IFUnicodeURL.m
+c000000004BD1BA57000000000000134D
+t1272035927
+s4941
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgTo.LinkFileList
+c000000004F9EB9580000000000000403
+t1335802200
+s1027
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToCommands.o
+t1335810725
+s30888
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToExtension.o
+t1335801471
+s9164
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToSnippet.o
+t1335801471
+s56256
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/NSURL+IFUnicodeURL.o
+t1335802200
+s16724
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/nameprep.o
+t1335802201
+s535624
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/puny.o
+t1335802200
+s11984
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/race.o
+t1335802201
+s13012
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/toxxx.o
+t1335802201
+s15744
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/util.o
+t1335802201
+s12284
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Script-824E47C1154AF29000079F84.sh
+c000000004F9EB679000000000000002B
+t1335801465
+s43
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension
+t1335810730
+s170
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension.dSYM
+t1335810727
+s102
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/Info.plist
+t1335808216
+s815
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo
+t1335810727
+s563280
+
+N/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgToNib.nib
+t1335801487
+s2273
+
+N/opt/iOSOpenDev/include/AssistantExtensions/SiriObjects.h
+c000000004F363B680000000000001DA0
+t1328954216
+s7584
+
+N/var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-benzdpmoycdptugopiddskenkjqe/JpgTo-Prefix.pch.pth
+t1335801470
+s3849860
+
+N/var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-hfozxbotxsxihggqxwnhvzavjejp/JpgTo-Prefix.pch.pth
+t1335802200
+s62332
+
+NJpgTo/JpgTo-Info.plist
+c000000004F9ED0C40000000000000375
+t1335808196
+s885
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesbb5f3944124fb541^a56b9644124fb541^---0#1#0#--18"Check dependencies36"EA236BC8-254E-42F4-AE92-B6B76046C494-
+
+CCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToCommands.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToCommands.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357503523.467164
+e357503525.528368
+r1
+xCompileC
+xbuild/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToCommands.o
+x/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToCommands.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToCommands.m8cd87723124fb541^52438725124fb541^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToCommands.m0000000000000000^2271"CompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToCommands.o JpgTo/JpgToCommands.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/JpgTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/JpgTo.hmap -I/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/include -I/opt/iOSOpenDev/include -I/opt/iOSOpenDev/include/ActionMenu -I/opt/iOSOpenDev/include/AssistantExtensions -I/opt/iOSOpenDev/include/CaptainHook -I/opt/iOSOpenDev/include/libactivator -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources -F/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos -include /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-benzdpmoycdptugopiddskenkjqe/JpgTo-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToCommands.d -c /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToCommands.m -o /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToCommands.o36"94D6ABBD-D076-4014-887E-9A635BDF80B5-
+
+CCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToExtension.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToExtension.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357494271.253842
+e357494271.346424
+r1
+xCompileC
+xbuild/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToExtension.o
+x/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToExtension.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToExtension.m8f1c41ffed4eb541^a3af58ffed4eb541^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToExtension.m0000000000000000^2276"CompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToExtension.o JpgTo/JpgToExtension.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/JpgTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/JpgTo.hmap -I/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/include -I/opt/iOSOpenDev/include -I/opt/iOSOpenDev/include/ActionMenu -I/opt/iOSOpenDev/include/AssistantExtensions -I/opt/iOSOpenDev/include/CaptainHook -I/opt/iOSOpenDev/include/libactivator -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources -F/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos -include /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-benzdpmoycdptugopiddskenkjqe/JpgTo-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToExtension.d -c /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToExtension.m -o /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToExtension.o36"A1DCCD2F-F279-41C2-B4D5-90DFE2A19461-
+
+CCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToSnippet.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToSnippet.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357494270.525174
+e357494271.258549
+r1
+xCompileC
+xbuild/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToSnippet.o
+x/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToSnippet.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToSnippet.mb79986feed4eb541^1d3d42ffed4eb541^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToSnippet.m0000000000000000^2266"CompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToSnippet.o JpgTo/JpgToSnippet.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/JpgTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/JpgTo.hmap -I/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/include -I/opt/iOSOpenDev/include -I/opt/iOSOpenDev/include/ActionMenu -I/opt/iOSOpenDev/include/AssistantExtensions -I/opt/iOSOpenDev/include/CaptainHook -I/opt/iOSOpenDev/include/libactivator -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources -F/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos -include /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-benzdpmoycdptugopiddskenkjqe/JpgTo-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToSnippet.d -c /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToSnippet.m -o /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToSnippet.o36"0871EA7E-A21A-45E0-9E25-DE643A3429DF-
+
+CCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/NSURL+IFUnicodeURL.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/NSURL+IFUnicodeURL.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357495000.340367
+e357495000.795755
+r1
+xCompileC
+xbuild/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/NSURL+IFUnicodeURL.o
+x/Users/tigra/Desktop/Coding/JpgTo/JpgTo/NSURL+IFUnicodeURL.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/tigra/Desktop/Coding/JpgTo/JpgTo/NSURL+IFUnicodeURL.mec4e57d8f04eb541^f3e3cbd8f04eb541^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/NSURL+IFUnicodeURL.m0000000000000000^2296"CompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/NSURL+IFUnicodeURL.o JpgTo/NSURL+IFUnicodeURL.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/JpgTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/JpgTo.hmap -I/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/include -I/opt/iOSOpenDev/include -I/opt/iOSOpenDev/include/ActionMenu -I/opt/iOSOpenDev/include/AssistantExtensions -I/opt/iOSOpenDev/include/CaptainHook -I/opt/iOSOpenDev/include/libactivator -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources -F/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos -include /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-benzdpmoycdptugopiddskenkjqe/JpgTo-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/NSURL+IFUnicodeURL.d -c /Users/tigra/Desktop/Coding/JpgTo/JpgTo/NSURL+IFUnicodeURL.m -o /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/NSURL+IFUnicodeURL.o36"395C88D3-2408-4AC7-9285-FF1748424575-
+
+CCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/nameprep.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/nameprep.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s357495000.709249
+e357495001.328392
+r1
+xCompileC
+xbuild/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/nameprep.o
+x/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/nameprep.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/nameprep.c:76:14:{76:7-76:13}{76:16-76:17}: warning: comparison of unsigned expression < 0 is always false [-Wtautological-compare,3]
+o   if (offset < 0 || offset > *length) {return;}
+o       ~~~~~~ ^ ~
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/nameprep.c03b4b5d8f04eb541^e41154d9f04eb541^-269"/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/nameprep.c:76:14:{76:7-76:13}{76:16-76:17}: warning: comparison of unsigned expression < 0 is always false [-Wtautological-compare,3]   if (offset < 0 || offset > *length) {return;}       ~~~~~~ ^ ~1 warning generated.1(21%IDEActivityLogMessage2@53"Comparison of unsigned expression < 0 is always false-357495000#0#181#-1#-23%DVTTextDocumentLocation3@73"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/nameprep.c0000000000000000^75#13#75#13#18446744073709551615#0#14"Semantic Issue2(3@73"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/nameprep.c0000000000000000^75#6#75#12#18446744073709551615#0#3@73"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/nameprep.c0000000000000000^75#15#75#16#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation4@73"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/nameprep.c0000000000000000^2077"CompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/nameprep.o JpgTo/IDNSDK/nameprep.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/JpgTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -miphoneos-version-min=5.0 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/JpgTo.hmap -I/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/include -I/opt/iOSOpenDev/include -I/opt/iOSOpenDev/include/ActionMenu -I/opt/iOSOpenDev/include/AssistantExtensions -I/opt/iOSOpenDev/include/CaptainHook -I/opt/iOSOpenDev/include/libactivator -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources -F/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos -include /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-hfozxbotxsxihggqxwnhvzavjejp/JpgTo-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/nameprep.d -c /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/nameprep.c -o /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/nameprep.o36"FAC8C4B4-9738-4FB5-96E5-CEE8901DD7DA-
+
+CCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/puny.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s357495000.797185
+e357495000.975226
+r1
+xCompileC
+xbuild/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/puny.o
+x/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c:80:5: warning: no previous prototype for function 'is_all_basic' [-Wmissing-prototypes,3]
+o int is_all_basic(DWORD input_length, const DWORD input[])
+o     ^
+o/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c:99:5: warning: no previous prototype for function 'punycode_encode' [-Wmissing-prototypes,3]
+o int punycode_encode( unsigned int input_length,
+o     ^
+o/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c:198:5: warning: no previous prototype for function 'punycode_decode' [-Wmissing-prototypes,3]
+o int punycode_decode( unsigned int input_length,
+o     ^
+o3 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.cc234ccd8f04eb541^0daaf9d8f04eb541^-639"/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c:80:5: warning: no previous prototype for function 'is_all_basic' [-Wmissing-prototypes,3] int is_all_basic(DWORD input_length, const DWORD input[])     ^/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c:99:5: warning: no previous prototype for function 'punycode_encode' [-Wmissing-prototypes,3] int punycode_encode( unsigned int input_length,     ^/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c:198:5: warning: no previous prototype for function 'punycode_decode' [-Wmissing-prototypes,3] int punycode_decode( unsigned int input_length,     ^3 warnings generated.3(21%IDEActivityLogMessage2@49"No previous prototype for function 'is_all_basic'-357495000#0#144#-1#-23%DVTTextDocumentLocation3@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c0000000000000000^79#4#79#4#18446744073709551615#0#14"Semantic Issue--2@52"No previous prototype for function 'punycode_encode'-357495000#210#147#-1#-3@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c0000000000000000^98#4#98#4#18446744073709551615#0#14"Semantic Issue--2@52"No previous prototype for function 'punycode_decode'-357495000#413#148#-1#-3@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c0000000000000000^197#4#197#4#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c0000000000000000^2057"CompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/puny.o JpgTo/IDNSDK/puny.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/JpgTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -miphoneos-version-min=5.0 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/JpgTo.hmap -I/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/include -I/opt/iOSOpenDev/include -I/opt/iOSOpenDev/include/ActionMenu -I/opt/iOSOpenDev/include/AssistantExtensions -I/opt/iOSOpenDev/include/CaptainHook -I/opt/iOSOpenDev/include/libactivator -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources -F/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos -include /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-hfozxbotxsxihggqxwnhvzavjejp/JpgTo-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/puny.d -c /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/puny.c -o /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/puny.o36"8E939A68-38CE-4B7D-A0D8-ABB3D71A72D3-
+
+CCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/race.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s357495000.976871
+e357495001.146033
+r1
+xCompileC
+xbuild/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/race.o
+x/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c:42:5: warning: no previous prototype for function 'Xcode_race_RaceCompress' [-Wmissing-prototypes,3]
+o int Xcode_race_RaceCompress( const UTF16CHAR *  uncompressed,
+o     ^
+o/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c:143:5: warning: no previous prototype for function 'Xcode_race_RaceDecompress' [-Wmissing-prototypes,3]
+o int Xcode_race_RaceDecompress( const UCHAR8* compressed,
+o     ^
+o/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c:290:8: warning: no previous prototype for function 'Xcode_enmap32_race' [-Wmissing-prototypes,3]
+o UCHAR8 Xcode_enmap32_race(const UCHAR8 input) 
+o        ^
+o/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c:301:8: warning: no previous prototype for function 'Xcode_demap32_race' [-Wmissing-prototypes,3]
+o UCHAR8 Xcode_demap32_race(const UCHAR8 input) 
+o        ^
+o/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c:312:5: warning: no previous prototype for function 'Xcode_enbase32_race' [-Wmissing-prototypes,3]
+o int Xcode_enbase32_race( const UCHAR8* input,
+o     ^
+o/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c:392:5: warning: no previous prototype for function 'Xcode_debase32_race' [-Wmissing-prototypes,3]
+o int Xcode_debase32_race( const UCHAR8* input,
+o     ^
+o6 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c2f35fad8f04eb541^cd7625d9f04eb541^-1300"/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c:42:5: warning: no previous prototype for function 'Xcode_race_RaceCompress' [-Wmissing-prototypes,3] int Xcode_race_RaceCompress( const UTF16CHAR *  uncompressed,     ^/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c:143:5: warning: no previous prototype for function 'Xcode_race_RaceDecompress' [-Wmissing-prototypes,3] int Xcode_race_RaceDecompress( const UCHAR8* compressed,     ^/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c:290:8: warning: no previous prototype for function 'Xcode_enmap32_race' [-Wmissing-prototypes,3] UCHAR8 Xcode_enmap32_race(const UCHAR8 input)         ^/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c:301:8: warning: no previous prototype for function 'Xcode_demap32_race' [-Wmissing-prototypes,3] UCHAR8 Xcode_demap32_race(const UCHAR8 input)         ^/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c:312:5: warning: no previous prototype for function 'Xcode_enbase32_race' [-Wmissing-prototypes,3] int Xcode_enbase32_race( const UCHAR8* input,     ^/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c:392:5: warning: no previous prototype for function 'Xcode_debase32_race' [-Wmissing-prototypes,3] int Xcode_debase32_race( const UCHAR8* input,     ^6 warnings generated.6(21%IDEActivityLogMessage2@60"No previous prototype for function 'Xcode_race_RaceCompress'-357495001#0#155#-1#-23%DVTTextDocumentLocation3@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c0000000000000000^41#4#41#4#18446744073709551615#0#14"Semantic Issue--2@62"No previous prototype for function 'Xcode_race_RaceDecompress'-357495001#225#158#-1#-3@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c0000000000000000^142#4#142#4#18446744073709551615#0#14"Semantic Issue--2@55"No previous prototype for function 'Xcode_enmap32_race'-357495001#448#151#-1#-3@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c0000000000000000^289#7#289#7#18446744073709551615#0#14"Semantic Issue--2@55"No previous prototype for function 'Xcode_demap32_race'-357495001#657#151#-1#-3@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c0000000000000000^300#7#300#7#18446744073709551615#0#14"Semantic Issue--2@56"No previous prototype for function 'Xcode_enbase32_race'-357495001#866#152#-1#-3@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c0000000000000000^311#4#311#4#18446744073709551615#0#14"Semantic Issue--2@56"No previous prototype for function 'Xcode_debase32_race'-357495001#1072#152#-1#-3@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c0000000000000000^391#4#391#4#18446744073709551615#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c0000000000000000^2057"CompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/race.o JpgTo/IDNSDK/race.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/JpgTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -miphoneos-version-min=5.0 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/JpgTo.hmap -I/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/include -I/opt/iOSOpenDev/include -I/opt/iOSOpenDev/include/ActionMenu -I/opt/iOSOpenDev/include/AssistantExtensions -I/opt/iOSOpenDev/include/CaptainHook -I/opt/iOSOpenDev/include/libactivator -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources -F/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos -include /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-hfozxbotxsxihggqxwnhvzavjejp/JpgTo-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/race.d -c /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/race.c -o /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/race.o36"98B2B973-42F1-401B-9ACA-2034385C3E09-
+
+CCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/toxxx.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/toxxx.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s357495001.147437
+e357495001.403412
+r1
+xCompileC
+xbuild/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/toxxx.o
+x/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/toxxx.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/toxxx.c:192:31:{192:10-192:30}{192:33-192:34}: warning: comparison of unsigned expression < 0 is always false [-Wtautological-compare,3]
+o     if ( *(dwzOutputString+i) < 0 || *(dwzOutputString+i) > 0x7F ) 
+o          ~~~~~~~~~~~~~~~~~~~~ ^ ~
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/toxxx.ca7eb25d9f04eb541^105a67d9f04eb541^-309"/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/toxxx.c:192:31:{192:10-192:30}{192:33-192:34}: warning: comparison of unsigned expression < 0 is always false [-Wtautological-compare,3]     if ( *(dwzOutputString+i) < 0 || *(dwzOutputString+i) > 0x7F )           ~~~~~~~~~~~~~~~~~~~~ ^ ~1 warning generated.1(21%IDEActivityLogMessage2@53"Comparison of unsigned expression < 0 is always false-357495001#0#184#-1#-23%DVTTextDocumentLocation3@70"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/toxxx.c0000000000000000^191#30#191#30#18446744073709551615#0#14"Semantic Issue2(3@70"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/toxxx.c0000000000000000^191#9#191#29#18446744073709551615#0#3@70"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/toxxx.c0000000000000000^191#32#191#33#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation4@70"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/toxxx.c0000000000000000^2062"CompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/toxxx.o JpgTo/IDNSDK/toxxx.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/JpgTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -miphoneos-version-min=5.0 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/JpgTo.hmap -I/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/include -I/opt/iOSOpenDev/include -I/opt/iOSOpenDev/include/ActionMenu -I/opt/iOSOpenDev/include/AssistantExtensions -I/opt/iOSOpenDev/include/CaptainHook -I/opt/iOSOpenDev/include/libactivator -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources -F/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos -include /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-hfozxbotxsxihggqxwnhvzavjejp/JpgTo-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/toxxx.d -c /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/toxxx.c -o /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/toxxx.o36"3656A142-5E3F-4E1D-B2AA-9F5B2A3F00B8-
+
+CCompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/util.o /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/util.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s357495001.329923
+e357495001.454765
+r1
+xCompileC
+xbuild/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/util.o
+x/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/util.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/util.c:64:11:{64:9-64:10}{64:14-64:20}: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare,3]
+o         if ( ( c >= 0x0000 && c <= 0x002C ) ||
+o                ~ ^  ~~~~~~
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/util.ca5a354d9f04eb541^be6b74d9f04eb541^-274"/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/util.c:64:11:{64:9-64:10}{64:14-64:20}: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare,3]         if ( ( c >= 0x0000 && c <= 0x002C ) ||                ~ ^  ~~~~~~1 warning generated.1(21%IDEActivityLogMessage2@53"Comparison of unsigned expression >= 0 is always true-357495001#0#177#-1#-23%DVTTextDocumentLocation3@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/util.c0000000000000000^63#10#63#10#18446744073709551615#0#14"Semantic Issue2(3@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/util.c0000000000000000^63#8#63#9#18446744073709551615#0#3@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/util.c0000000000000000^63#13#63#19#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation4@69"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/util.c0000000000000000^2057"CompileC build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/util.o JpgTo/IDNSDK/util.c normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/JpgTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -miphoneos-version-min=5.0 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/JpgTo.hmap -I/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/include -I/opt/iOSOpenDev/include -I/opt/iOSOpenDev/include/ActionMenu -I/opt/iOSOpenDev/include/AssistantExtensions -I/opt/iOSOpenDev/include/CaptainHook -I/opt/iOSOpenDev/include/libactivator -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources -F/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos -include /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-hfozxbotxsxihggqxwnhvzavjejp/JpgTo-Prefix.pch -MMD -MT dependencies -MF /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/util.d -c /Users/tigra/Desktop/Coding/JpgTo/JpgTo/IDNSDK/util.c -o /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/util.o36"6F96D3F8-087A-4872-85F7-590ECB4CAC63-
+
+CCompileXIB /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToNib.xib
+s357494272.855287
+e357494290.175381
+r1
+xCompileXIB
+x/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToNib.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+o/* com.apple.ibtool.document.warnings */
+o/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToNib.xib:1: warning: Freeform Size simulated metrics are not available prior to Xcode 4.2. [5]
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compiling /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToNib.xib7a17db00ee4eb541^c0052d12ee4eb541^-264"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)/* com.apple.ibtool.document.warnings *//Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToNib.xib:1: warning: Freeform Size simulated metrics are not available prior to Xcode 4.2. [5]1(21%IDEActivityLogMessage2@69"Freeform Size simulated metrics are not available prior to Xcode 4.2.-357494290#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@68"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToNib.xib0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#21"Attribute Unavailable--0#0#0#-19%DVTDocumentLocation4@68"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToNib.xib0000000000000000^725"CompileXIB JpgTo/JpgToNib.xib    cd /Users/tigra/Desktop/Coding/JpgTo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgToNib.nib /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgToNib.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"201D2405-500C-4CD6-B71F-E2B6A783CDA9-
+
+CGenerateDSYMFile /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension.dSYM /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo
+s357503526.908240
+e357503527.036063
+r1
+xGenerateDSYMFile
+x/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension.dSYM
+x/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Generating /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension.dSYM2fa3e826124fb541^03400927124fb541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension.dSYM/0000000000000000^592"GenerateDSYMFile build/Release-iphoneos/JpgTo.assistantExtension.dSYM build/Release-iphoneos/JpgTo.assistantExtension/JpgTo    cd /Users/tigra/Desktop/Coding/JpgTo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /Developer/usr/bin/dsymutil /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo -o /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension.dSYM36"D22213B5-6F8A-461B-AFBC-5C95F270629E-
+
+CLd /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo normal armv7
+s357503525.536055
+e357503526.900629
+r1
+xLd
+x/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo
+xnormal
+xarmv7
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Link /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo245f8925124fb541^9b90e626124fb541^---0#0#0#--996"Ld build/Release-iphoneos/JpgTo.assistantExtension/JpgTo normal armv7    cd /Users/tigra/Desktop/Coding/JpgTo    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -arch armv7 -bundle -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -L/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos -L/opt/iOSOpenDev/lib -F/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos -filelist /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgTo.LinkFileList -dead_strip -miphoneos-version-min=5.0 -framework Twitter -framework Foundation -framework UIKit -o /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo36"A2E8ACFD-A035-4270-B576-1419E30A3D59-
+
+CPhaseScriptExecution "Run Script" /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Script-824E47C1154AF29000079F84.sh
+s357503556.685801
+e357503557.474806
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Script-824E47C1154AF29000079F84.sh
+oPreparing to run Xcode Build Phase...
+oSigning /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo with ldid... Done.
+oCopying /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension to package directory at /Users/tigra/Desktop/Coding/JpgTo/JpgTo/Package/Library/AssistantExtensions...
+oPreparing to build package...
+oSetting control file /Users/tigra/Desktop/Coding/JpgTo/JpgTo/Package/DEBIAN/control Version field to 1.2-1 using /Users/tigra/Desktop/Coding/JpgTo/JpgTo/PackageVersion.plist... Done.
+oBuilding package /Users/tigra/Desktop/Coding/JpgTo/Packages/com.vladkorotnev.JpgToSiri_1.2-1_iphoneos-arm.deb... Done.
+oCreating zip /Users/tigra/Desktop/Coding/JpgTo/Packages/com.vladkorotnev.JpgToSiri_1.2-1_iphoneos-arm.zip... Done.
+oInstallation of package on device is disabled. To enable, set build setting iOSOpenDevInstallOnProfiling to YES.
+oXcode Build Phase complete.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'55a2b044124fb541^f3c67945124fb541^-934"Preparing to run Xcode Build Phase...Signing /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo with ldid... Done.Copying /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension to package directory at /Users/tigra/Desktop/Coding/JpgTo/JpgTo/Package/Library/AssistantExtensions...Preparing to build package...Setting control file /Users/tigra/Desktop/Coding/JpgTo/JpgTo/Package/DEBIAN/control Version field to 1.2-1 using /Users/tigra/Desktop/Coding/JpgTo/JpgTo/PackageVersion.plist... Done.Building package /Users/tigra/Desktop/Coding/JpgTo/Packages/com.vladkorotnev.JpgToSiri_1.2-1_iphoneos-arm.deb... Done.Creating zip /Users/tigra/Desktop/Coding/JpgTo/Packages/com.vladkorotnev.JpgToSiri_1.2-1_iphoneos-arm.zip... Done.Installation of package on device is disabled. To enable, set build setting iOSOpenDevInstallOnProfiling to YES.Xcode Build Phase complete.9(21%IDEActivityLogMessage2@38"Preparing to run Xcode Build Phase...-357503556#0#38#-0#-----2@115"Signing /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo with ldid... Done.-357503556#38#115#-0#-----2@193"Copying /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension to package directory at /Users/tigra/Desktop/Coding/JpgTo/JpgTo/Package/Library/AssistantExtensions...-357503556#153#193#-0#-----2@30"Preparing to build package...-357503556#346#30#-0#-----2@183"Setting control file /Users/tigra/Desktop/Coding/JpgTo/JpgTo/Package/DEBIAN/control Version field to 1.2-1 using /Users/tigra/Desktop/Coding/JpgTo/JpgTo/PackageVersion.plist... Done.-357503557#376#183#-0#-----2@119"Building package /Users/tigra/Desktop/Coding/JpgTo/Packages/com.vladkorotnev.JpgToSiri_1.2-1_iphoneos-arm.deb... Done.-357503557#559#119#-0#-----2@115"Creating zip /Users/tigra/Desktop/Coding/JpgTo/Packages/com.vladkorotnev.JpgToSiri_1.2-1_iphoneos-arm.zip... Done.-357503557#678#115#-0#-----2@113"Installation of package on device is disabled. To enable, set build setting iOSOpenDevInstallOnProfiling to YES.-357503557#793#113#-0#-----2@28"Xcode Build Phase complete.-357503557#906#28#-0#-----0#0#0#--17896"PhaseScriptExecution "Run Script" build/JpgTo.build/Release-iphoneos/JpgTo.build/Script-824E47C1154AF29000079F84.sh    cd /Users/tigra/Desktop/Coding/JpgTo    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED 1    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER tigra    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS armv7    setenv ARCHS_STANDARD_32_64_BIT armv7    setenv ARCHS_STANDARD_32_BIT armv7    setenv ARCHS_UNIVERSAL_IPHONE_OS armv7    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/tigra/Desktop/Coding/JpgTo/build    setenv BUILD_ROOT /Users/tigra/Desktop/Coding/JpgTo/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos    setenv CACHE_ROOT /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension    setenv CODE_SIGNING_REQUIRED 0    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Release    setenv CONFIGURATION_BUILD_DIR /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos    setenv CONTENTS_FOLDER_PATH JpgTo.assistantExtension    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH armv7    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH JpgTo.assistantExtension/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/JpgTo.dst    setenv DWARF_DSYM_FILE_NAME JpgTo.assistantExtension.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv ENTITLEMENTS_REQUIRED 0    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH JpgTo.assistantExtension/Executables    setenv EXECUTABLE_FOLDER_PATH JpgTo.assistantExtension    setenv EXECUTABLE_NAME JpgTo    setenv EXECUTABLE_PATH JpgTo.assistantExtension/JpgTo    setenv FILE_LIST /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH JpgTo.assistantExtension/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME JpgTo.assistantExtension    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER JpgTo/JpgTo-Prefix.pch    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_MISSING_PROTOTYPES YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/include\" /opt/iOSOpenDev/include/**"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE JpgTo/JpgTo-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH JpgTo.assistantExtension/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH JpgTo.assistantExtension/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/JpgTo.dst/Library/AssistantExtensions    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER tigra    setenv INSTALL_PATH /Library/AssistantExtensions    setenv INSTALL_ROOT /tmp/JpgTo.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH JpgTo.assistantExtension/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/JpgTo-LinkMap-normal-armv7.txt    setenv LD_NO_PIE NO    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEGACY_DEVELOPER_DIR /Developer/Library/Xcode/PrivatePlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos\" /opt/iOSOpenDev/lib/**"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv7 /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgTo.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH JpgTo.assistantExtension/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_bundle    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 11D50b    setenv MAC_OS_X_VERSION_ACTUAL 1073    setenv MAC_OS_X_VERSION_MAJOR 1070    setenv MAC_OS_X_VERSION_MINOR 0703    setenv NATIVE_ARCH armv7    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal    setenv OBJROOT /Users/tigra/Desktop/Coding/JpgTo/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv PACKAGE_TYPE com.apple.package-type.wrapper    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH JpgTo.assistantExtension/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS "c objective-c"    setenv PKGINFO_FILE_PATH /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/PkgInfo    setenv PKGINFO_PATH JpgTo.assistantExtension/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library/Xcode/PrivatePlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 9A5313e    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH JpgTo.assistantExtension/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH JpgTo.assistantExtension/PrivateHeaders    setenv PRODUCT_NAME JpgTo    setenv PRODUCT_SETTINGS_PATH /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgTo-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.bundle    setenv PROFILING_CODE NO    setenv PROJECT JpgTo    setenv PROJECT_DERIVED_FILE_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/DerivedSources    setenv PROJECT_DIR /Users/tigra/Desktop/Coding/JpgTo    setenv PROJECT_FILE_PATH /Users/tigra/Desktop/Coding/JpgTo/JpgTo.xcodeproj    setenv PROJECT_NAME JpgTo    setenv PROJECT_TEMP_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build    setenv PUBLIC_HEADERS_FOLDER_PATH JpgTo.assistantExtension/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH JpgTo.assistantExtension/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk    setenv SDK_NAME iphoneos5.0    setenv SDK_PRODUCT_BUILD_VERSION 9A5313e    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH JpgTo.assistantExtension/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH JpgTo.assistantExtension/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/tigra/Desktop/Coding/JpgTo    setenv SRCROOT /Users/tigra/Desktop/Coding/JpgTo    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE non-global    setenv SUPPORTED_DEVICE_FAMILIES 1,2    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/tigra/Desktop/Coding/JpgTo/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME JpgTo    setenv TARGET_BUILD_DIR /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos    setenv TARGET_NAME JpgTo    setenv TARGET_TEMP_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build    setenv TEMP_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build    setenv TEMP_FILES_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build    setenv TEMP_FILE_DIR /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build    setenv TEMP_ROOT /Users/tigra/Desktop/Coding/JpgTo/build    setenv TEST_AFTER_BUILD YES    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH JpgTo.assistantExtension    setenv UNSTRIPPED_PRODUCT NO    setenv USER tigra    setenv USER_APPS_DIR /Users/tigra/Applications    setenv USER_LIBRARY_DIR /Users/tigra/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT YES    setenv VALID_ARCHS "armv6 armv7"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH JpgTo.assistantExtension/version.plist    setenv VERSION_INFO_BUILDER tigra    setenv VERSION_INFO_FILE JpgTo_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:JpgTo  PROJECT:JpgTo-\""    setenv WRAPPER_EXTENSION assistantExtension    setenv WRAPPER_NAME JpgTo.assistantExtension    setenv WRAPPER_SUFFIX .assistantExtension    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4D177b    setenv XCODE_VERSION_ACTUAL 0420    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0420    setenv YACC /Developer/usr/bin/yacc    setenv iOSOpenDevCopyOnBuild NO    setenv iOSOpenDevInstallOnAnyBuild NO    setenv iOSOpenDevInstallOnProfiling NO    setenv iOSOpenDevPath /opt/iOSOpenDev    setenv iOSOpenDevRespringOnInstall NO    setenv iOSOpenDevUsePackageVersionPList YES    /bin/sh -c /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Script-824E47C1154AF29000079F84.sh36"07F3A515-1870-42AC-94D7-B79879177935-
+
+CProcessInfoPlistFile /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/Info.plist JpgTo/JpgTo-Info.plist
+s357501016.704761
+e357501016.709068
+r1
+xProcessInfoPlistFile
+x/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/Info.plist
+xJpgTo/JpgTo-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process JpgTo/JpgTo-Info.plist0c90b458084fb541^c98eb558084fb541^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgTo-Info.plist0000000000000000^564"ProcessInfoPlistFile build/Release-iphoneos/JpgTo.assistantExtension/Info.plist JpgTo/JpgTo-Info.plist    cd /Users/tigra/Desktop/Coding/JpgTo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    builtin-infoPlistUtility JpgTo/JpgTo-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/Info.plist36"A38799D1-7A59-4BBF-B177-E2AF8AD68C9B-
+
+CProcessPCH /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-benzdpmoycdptugopiddskenkjqe/JpgTo-Prefix.pch.pth JpgTo/JpgTo-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s357494265.617157
+e357494270.517543
+r1
+xProcessPCH
+x/var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-benzdpmoycdptugopiddskenkjqe/JpgTo-Prefix.pch.pth
+xJpgTo/JpgTo-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile JpgTo/JpgTo-Prefix.pch13439ef9ed4eb541^fa7c84feed4eb541^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgTo-Prefix.pch0000000000000000^2269"ProcessPCH /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-benzdpmoycdptugopiddskenkjqe/JpgTo-Prefix.pch.pth JpgTo/JpgTo-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/JpgTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/JpgTo.hmap -I/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/include -I/opt/iOSOpenDev/include -I/opt/iOSOpenDev/include/ActionMenu -I/opt/iOSOpenDev/include/AssistantExtensions -I/opt/iOSOpenDev/include/CaptainHook -I/opt/iOSOpenDev/include/libactivator -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources -F/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos -c /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgTo-Prefix.pch -o /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-benzdpmoycdptugopiddskenkjqe/JpgTo-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-benzdpmoycdptugopiddskenkjqe/JpgTo-Prefix.pch.d36"9B400ADC-8AFE-4917-8CD3-83E21305B427-
+
+CProcessPCH /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-hfozxbotxsxihggqxwnhvzavjejp/JpgTo-Prefix.pch.pth JpgTo/JpgTo-Prefix.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler
+s357495000.313268
+e357495000.335573
+r1
+xProcessPCH
+x/var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-hfozxbotxsxihggqxwnhvzavjejp/JpgTo-Prefix.pch.pth
+xJpgTo/JpgTo-Prefix.pch
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile JpgTo/JpgTo-Prefix.pch7f6a50d8f04eb541^0f0e56d8f04eb541^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgTo-Prefix.pch0000000000000000^2086"ProcessPCH /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-hfozxbotxsxihggqxwnhvzavjejp/JpgTo-Prefix.pch.pth JpgTo/JpgTo-Prefix.pch normal armv7 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tigra/Desktop/Coding/JpgTo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x c-header -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb -miphoneos-version-min=5.0 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/JpgTo.hmap -I/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/include -I/opt/iOSOpenDev/include -I/opt/iOSOpenDev/include/ActionMenu -I/opt/iOSOpenDev/include/AssistantExtensions -I/opt/iOSOpenDev/include/CaptainHook -I/opt/iOSOpenDev/include/libactivator -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/DerivedSources -F/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos -c /Users/tigra/Desktop/Coding/JpgTo/JpgTo/JpgTo-Prefix.pch -o /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-hfozxbotxsxihggqxwnhvzavjejp/JpgTo-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-hfozxbotxsxihggqxwnhvzavjejp/JpgTo-Prefix.pch.d36"5AB34B10-6ECB-4542-BBEB-C4960D8EDB68-
+
+CTouch /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension
+s357503530.208713
+e357503530.215341
+r1
+xTouch
+x/Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Touch /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension2b88352a124fb541^3e21372a124fb541^---0#0#0#--416"Touch build/Release-iphoneos/JpgTo.assistantExtension    cd /Users/tigra/Desktop/Coding/JpgTo    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/sw/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/devkitPSP/bin:/devkitPSP/psp/bin:/devkitPSP/psp/sdk/bin"    /usr/bin/touch -c /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension36"B6FC227D-780A-4B4B-9E99-8CB51C3EEC6A-
+

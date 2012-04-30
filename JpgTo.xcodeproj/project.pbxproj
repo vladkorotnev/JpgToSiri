@@ -7,6 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8210C538154EF0BE0093A998 /* adapter.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C51C154EF0BE0093A998 /* adapter.h */; };
+		8210C539154EF0BE0093A998 /* nameprep.c in Sources */ = {isa = PBXBuildFile; fileRef = 8210C51D154EF0BE0093A998 /* nameprep.c */; };
+		8210C53A154EF0BE0093A998 /* nameprep.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C51E154EF0BE0093A998 /* nameprep.h */; };
+		8210C53B154EF0BE0093A998 /* puny.c in Sources */ = {isa = PBXBuildFile; fileRef = 8210C51F154EF0BE0093A998 /* puny.c */; };
+		8210C53C154EF0BE0093A998 /* puny.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C520154EF0BE0093A998 /* puny.h */; };
+		8210C53D154EF0BE0093A998 /* race.c in Sources */ = {isa = PBXBuildFile; fileRef = 8210C521154EF0BE0093A998 /* race.c */; };
+		8210C53E154EF0BE0093A998 /* race.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C522154EF0BE0093A998 /* race.h */; };
+		8210C53F154EF0BE0093A998 /* nameprep_bidi_lcat.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C524154EF0BE0093A998 /* nameprep_bidi_lcat.h */; };
+		8210C540154EF0BE0093A998 /* nameprep_bidi_randalcat.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C525154EF0BE0093A998 /* nameprep_bidi_randalcat.h */; };
+		8210C541154EF0BE0093A998 /* nameprep_charmap.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C526154EF0BE0093A998 /* nameprep_charmap.h */; };
+		8210C542154EF0BE0093A998 /* nameprep_compatible.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C527154EF0BE0093A998 /* nameprep_compatible.h */; };
+		8210C543154EF0BE0093A998 /* nameprep_compose.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C528154EF0BE0093A998 /* nameprep_compose.h */; };
+		8210C544154EF0BE0093A998 /* nameprep_cononical.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C529154EF0BE0093A998 /* nameprep_cononical.h */; };
+		8210C545154EF0BE0093A998 /* nameprep_data.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C52A154EF0BE0093A998 /* nameprep_data.h */; };
+		8210C546154EF0BE0093A998 /* nameprep_datastructures.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C52B154EF0BE0093A998 /* nameprep_datastructures.h */; };
+		8210C547154EF0BE0093A998 /* nameprep_decompose.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C52C154EF0BE0093A998 /* nameprep_decompose.h */; };
+		8210C548154EF0BE0093A998 /* nameprep_lookups.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C52D154EF0BE0093A998 /* nameprep_lookups.h */; };
+		8210C549154EF0BE0093A998 /* nameprep_prohibit.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C52E154EF0BE0093A998 /* nameprep_prohibit.h */; };
+		8210C54A154EF0BE0093A998 /* nameprep_prohibit_allowunassigned.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C52F154EF0BE0093A998 /* nameprep_prohibit_allowunassigned.h */; };
+		8210C54B154EF0BE0093A998 /* toxxx.c in Sources */ = {isa = PBXBuildFile; fileRef = 8210C530154EF0BE0093A998 /* toxxx.c */; };
+		8210C54C154EF0BE0093A998 /* toxxx.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C531154EF0BE0093A998 /* toxxx.h */; };
+		8210C54D154EF0BE0093A998 /* util.c in Sources */ = {isa = PBXBuildFile; fileRef = 8210C532154EF0BE0093A998 /* util.c */; };
+		8210C54E154EF0BE0093A998 /* util.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C533154EF0BE0093A998 /* util.h */; };
+		8210C54F154EF0BE0093A998 /* xcode.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C534154EF0BE0093A998 /* xcode.h */; };
+		8210C550154EF0BE0093A998 /* xcode_config.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C535154EF0BE0093A998 /* xcode_config.h */; };
+		8210C551154EF0BE0093A998 /* NSURL+IFUnicodeURL.h in Headers */ = {isa = PBXBuildFile; fileRef = 8210C536154EF0BE0093A998 /* NSURL+IFUnicodeURL.h */; };
+		8210C552154EF0BE0093A998 /* NSURL+IFUnicodeURL.m in Sources */ = {isa = PBXBuildFile; fileRef = 8210C537154EF0BE0093A998 /* NSURL+IFUnicodeURL.m */; };
 		824E47C7154AF29000079F84 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 824E47C6154AF29000079F84 /* Foundation.framework */; };
 		824E47C9154AF29000079F84 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 824E47C8154AF29000079F84 /* UIKit.framework */; };
 		824E47D9154AF29200079F84 /* JpgToCommands.m in Sources */ = {isa = PBXBuildFile; fileRef = 824E47D8154AF29200079F84 /* JpgToCommands.m */; };
@@ -17,6 +44,33 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8210C51C154EF0BE0093A998 /* adapter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = adapter.h; sourceTree = "<group>"; };
+		8210C51D154EF0BE0093A998 /* nameprep.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = nameprep.c; sourceTree = "<group>"; };
+		8210C51E154EF0BE0093A998 /* nameprep.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nameprep.h; sourceTree = "<group>"; };
+		8210C51F154EF0BE0093A998 /* puny.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = puny.c; sourceTree = "<group>"; };
+		8210C520154EF0BE0093A998 /* puny.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = puny.h; sourceTree = "<group>"; };
+		8210C521154EF0BE0093A998 /* race.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = race.c; sourceTree = "<group>"; };
+		8210C522154EF0BE0093A998 /* race.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = race.h; sourceTree = "<group>"; };
+		8210C524154EF0BE0093A998 /* nameprep_bidi_lcat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nameprep_bidi_lcat.h; sourceTree = "<group>"; };
+		8210C525154EF0BE0093A998 /* nameprep_bidi_randalcat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nameprep_bidi_randalcat.h; sourceTree = "<group>"; };
+		8210C526154EF0BE0093A998 /* nameprep_charmap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nameprep_charmap.h; sourceTree = "<group>"; };
+		8210C527154EF0BE0093A998 /* nameprep_compatible.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nameprep_compatible.h; sourceTree = "<group>"; };
+		8210C528154EF0BE0093A998 /* nameprep_compose.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nameprep_compose.h; sourceTree = "<group>"; };
+		8210C529154EF0BE0093A998 /* nameprep_cononical.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nameprep_cononical.h; sourceTree = "<group>"; };
+		8210C52A154EF0BE0093A998 /* nameprep_data.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nameprep_data.h; sourceTree = "<group>"; };
+		8210C52B154EF0BE0093A998 /* nameprep_datastructures.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nameprep_datastructures.h; sourceTree = "<group>"; };
+		8210C52C154EF0BE0093A998 /* nameprep_decompose.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nameprep_decompose.h; sourceTree = "<group>"; };
+		8210C52D154EF0BE0093A998 /* nameprep_lookups.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nameprep_lookups.h; sourceTree = "<group>"; };
+		8210C52E154EF0BE0093A998 /* nameprep_prohibit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nameprep_prohibit.h; sourceTree = "<group>"; };
+		8210C52F154EF0BE0093A998 /* nameprep_prohibit_allowunassigned.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nameprep_prohibit_allowunassigned.h; sourceTree = "<group>"; };
+		8210C530154EF0BE0093A998 /* toxxx.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = toxxx.c; sourceTree = "<group>"; };
+		8210C531154EF0BE0093A998 /* toxxx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = toxxx.h; sourceTree = "<group>"; };
+		8210C532154EF0BE0093A998 /* util.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = util.c; sourceTree = "<group>"; };
+		8210C533154EF0BE0093A998 /* util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = util.h; sourceTree = "<group>"; };
+		8210C534154EF0BE0093A998 /* xcode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xcode.h; sourceTree = "<group>"; };
+		8210C535154EF0BE0093A998 /* xcode_config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = xcode_config.h; sourceTree = "<group>"; };
+		8210C536154EF0BE0093A998 /* NSURL+IFUnicodeURL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSURL+IFUnicodeURL.h"; sourceTree = "<group>"; };
+		8210C537154EF0BE0093A998 /* NSURL+IFUnicodeURL.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSURL+IFUnicodeURL.m"; sourceTree = "<group>"; };
 		824E47C3154AF29000079F84 /* JpgTo.assistantExtension */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JpgTo.assistantExtension; sourceTree = BUILT_PRODUCTS_DIR; };
 		824E47C6154AF29000079F84 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		824E47C8154AF29000079F84 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -50,6 +104,46 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8210C51B154EF0BE0093A998 /* IDNSDK */ = {
+			isa = PBXGroup;
+			children = (
+				8210C51C154EF0BE0093A998 /* adapter.h */,
+				8210C51D154EF0BE0093A998 /* nameprep.c */,
+				8210C51E154EF0BE0093A998 /* nameprep.h */,
+				8210C51F154EF0BE0093A998 /* puny.c */,
+				8210C520154EF0BE0093A998 /* puny.h */,
+				8210C521154EF0BE0093A998 /* race.c */,
+				8210C522154EF0BE0093A998 /* race.h */,
+				8210C523154EF0BE0093A998 /* staticdata */,
+				8210C530154EF0BE0093A998 /* toxxx.c */,
+				8210C531154EF0BE0093A998 /* toxxx.h */,
+				8210C532154EF0BE0093A998 /* util.c */,
+				8210C533154EF0BE0093A998 /* util.h */,
+				8210C534154EF0BE0093A998 /* xcode.h */,
+				8210C535154EF0BE0093A998 /* xcode_config.h */,
+			);
+			path = IDNSDK;
+			sourceTree = "<group>";
+		};
+		8210C523154EF0BE0093A998 /* staticdata */ = {
+			isa = PBXGroup;
+			children = (
+				8210C524154EF0BE0093A998 /* nameprep_bidi_lcat.h */,
+				8210C525154EF0BE0093A998 /* nameprep_bidi_randalcat.h */,
+				8210C526154EF0BE0093A998 /* nameprep_charmap.h */,
+				8210C527154EF0BE0093A998 /* nameprep_compatible.h */,
+				8210C528154EF0BE0093A998 /* nameprep_compose.h */,
+				8210C529154EF0BE0093A998 /* nameprep_cononical.h */,
+				8210C52A154EF0BE0093A998 /* nameprep_data.h */,
+				8210C52B154EF0BE0093A998 /* nameprep_datastructures.h */,
+				8210C52C154EF0BE0093A998 /* nameprep_decompose.h */,
+				8210C52D154EF0BE0093A998 /* nameprep_lookups.h */,
+				8210C52E154EF0BE0093A998 /* nameprep_prohibit.h */,
+				8210C52F154EF0BE0093A998 /* nameprep_prohibit_allowunassigned.h */,
+			);
+			path = staticdata;
+			sourceTree = "<group>";
+		};
 		824E47B7154AF28B00079F84 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +179,9 @@
 				824E47DA154AF29200079F84 /* JpgToSnippet.h */,
 				824E47DB154AF29200079F84 /* JpgToSnippet.m */,
 				824E47DD154AF29200079F84 /* JpgToExtension.h */,
+				8210C51B154EF0BE0093A998 /* IDNSDK */,
+				8210C536154EF0BE0093A998 /* NSURL+IFUnicodeURL.h */,
+				8210C537154EF0BE0093A998 /* NSURL+IFUnicodeURL.m */,
 				824E47DE154AF29200079F84 /* JpgToExtension.m */,
 				824E47E0154AF29200079F84 /* JpgToNib.xib */,
 				824E47CB154AF29200079F84 /* Package */,
@@ -152,6 +249,27 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8210C538154EF0BE0093A998 /* adapter.h in Headers */,
+				8210C53A154EF0BE0093A998 /* nameprep.h in Headers */,
+				8210C53C154EF0BE0093A998 /* puny.h in Headers */,
+				8210C53E154EF0BE0093A998 /* race.h in Headers */,
+				8210C53F154EF0BE0093A998 /* nameprep_bidi_lcat.h in Headers */,
+				8210C540154EF0BE0093A998 /* nameprep_bidi_randalcat.h in Headers */,
+				8210C541154EF0BE0093A998 /* nameprep_charmap.h in Headers */,
+				8210C542154EF0BE0093A998 /* nameprep_compatible.h in Headers */,
+				8210C543154EF0BE0093A998 /* nameprep_compose.h in Headers */,
+				8210C544154EF0BE0093A998 /* nameprep_cononical.h in Headers */,
+				8210C545154EF0BE0093A998 /* nameprep_data.h in Headers */,
+				8210C546154EF0BE0093A998 /* nameprep_datastructures.h in Headers */,
+				8210C547154EF0BE0093A998 /* nameprep_decompose.h in Headers */,
+				8210C548154EF0BE0093A998 /* nameprep_lookups.h in Headers */,
+				8210C549154EF0BE0093A998 /* nameprep_prohibit.h in Headers */,
+				8210C54A154EF0BE0093A998 /* nameprep_prohibit_allowunassigned.h in Headers */,
+				8210C54C154EF0BE0093A998 /* toxxx.h in Headers */,
+				8210C54E154EF0BE0093A998 /* util.h in Headers */,
+				8210C54F154EF0BE0093A998 /* xcode.h in Headers */,
+				8210C550154EF0BE0093A998 /* xcode_config.h in Headers */,
+				8210C551154EF0BE0093A998 /* NSURL+IFUnicodeURL.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -237,6 +355,12 @@
 				824E47D9154AF29200079F84 /* JpgToCommands.m in Sources */,
 				824E47DC154AF29200079F84 /* JpgToSnippet.m in Sources */,
 				824E47DF154AF29200079F84 /* JpgToExtension.m in Sources */,
+				8210C539154EF0BE0093A998 /* nameprep.c in Sources */,
+				8210C53B154EF0BE0093A998 /* puny.c in Sources */,
+				8210C53D154EF0BE0093A998 /* race.c in Sources */,
+				8210C54B154EF0BE0093A998 /* toxxx.c in Sources */,
+				8210C54D154EF0BE0093A998 /* util.c in Sources */,
+				8210C552154EF0BE0093A998 /* NSURL+IFUnicodeURL.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
