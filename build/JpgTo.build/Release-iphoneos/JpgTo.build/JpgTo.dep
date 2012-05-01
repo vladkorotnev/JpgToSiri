@@ -1,7 +1,8 @@
-ffffffffffffffffffffffffffffffff 5dc98096484a2a4f2e0f0955b0d5c726 ffffffffffffffffffffffffffffffff 102 /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension.dSYM
 ffffffffffffffffffffffffffffffff 44e64b891f7f865107e00f4f41e4b0a8 ffffffffffffffffffffffffffffffff 170 /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension
-000000004f9acf170000000000003c0b cbb625d2861edd2234d4bd834a2d4a50 ffffffffffffffffffffffffffffffff 2273 /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgToNib.nib
+ffffffffffffffffffffffffffffffff 5dc98096484a2a4f2e0f0955b0d5c726 ffffffffffffffffffffffffffffffff 102 /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension.dSYM
 ffffffffffffffffffffffffffffffff b780dfa738bd235f5a456dfcd824215b ffffffffffffffffffffffffffffffff 563280 /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgTo
+18f7fa51f2fc7af967ad5720abd14a5a 325a3c2a591c51fe2c17ae120dfdff73 ffffffffffffffffffffffffffffffff 30760 /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToCommands.o
+000000004f9acf170000000000003c0b cbb625d2861edd2234d4bd834a2d4a50 ffffffffffffffffffffffffffffffff 2273 /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/JpgToNib.nib
 18f7fa51f250a4db67ad5720abd1429d 624eecdcae336252eba1858202f2da54 ffffffffffffffffffffffffffffffff 16724 /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/NSURL+IFUnicodeURL.o
 ffffffffffffffffffffffffffffffff 40f50c7a4a762ec3d1a0b396240e0e15 ffffffffffffffffffffffffffffffff 12284 /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/util.o
 ffffffffffffffffffffffffffffffff 095af9d7966b1b8cce351dbbe4e59edb ffffffffffffffffffffffffffffffff 15744 /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/toxxx.o
@@ -11,6 +12,5 @@ ffffffffffffffffffffffffffffffff 7cfa2cc8fd8b7550c03e09ee554b13f0 ffffffffffffff
 000000004f9abb1200000000000000b3 d81f2429a0787cad327a5d839b2faca9 ffffffffffffffffffffffffffffffff 62332 /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-hfozxbotxsxihggqxwnhvzavjejp/JpgTo-Prefix.pch.pth
 ffffffffffffffffffffffffffffffff 2d263f148be554f180da0c17d2f658fd ffffffffffffffffffffffffffffffff 9164 /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToExtension.o
 ffffffffffffffffffffffffffffffff e2e04cdee5c726feabef9bc770259b25 ffffffffffffffffffffffffffffffff 56256 /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToSnippet.o
-18f7fa51f2fc7af967ad5720abd14a5a 325a3c2a591c51fe2c17ae120dfdff73 ffffffffffffffffffffffffffffffff 30888 /Users/tigra/Desktop/Coding/JpgTo/build/JpgTo.build/Release-iphoneos/JpgTo.build/Objects-normal/armv7/JpgToCommands.o
 000000004f9abb1200000000000000b3 18f7fa51b9811e8c67ad5720abd151d0 ffffffffffffffffffffffffffffffff 3849860 /var/folders/90/9hvrmhg93nd5rnm9jrhbs3f80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/JpgTo-Prefix-benzdpmoycdptugopiddskenkjqe/JpgTo-Prefix.pch.pth
 00000000000000000000000000000000 80f3b39fd6668e48b336be8f9bfcdfea ffffffffffffffffffffffffffffffff 815 /Users/tigra/Desktop/Coding/JpgTo/build/Release-iphoneos/JpgTo.assistantExtension/Info.plist

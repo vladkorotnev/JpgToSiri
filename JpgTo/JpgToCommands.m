@@ -77,12 +77,12 @@
 	//////////////
 	// FRENCH   //
 	//////////////
-	if ([tokenset count] > 1 && [tokenset containsObject:@"montrez"]&& [tokenset containsObject:@"moi"] )
+	if ([tokenset count] > 1 && [tokenset containsObject:@"montrez-moi"] )
 	{
 
         NSString *stringWeGot = @"";
         for (NSString *curToken in tokens) {
-            if (![curToken isEqualToString:@"montrez"] && ![curToken isEqualToString:@"moi"]) {
+            if (![curToken isEqualToString:@"montrez-moi"]) {
                 if([stringWeGot isEqualToString:@""]) {
                     stringWeGot = [NSString stringWithFormat:@"%@%@",stringWeGot,curToken];
                 } else {
@@ -126,12 +126,12 @@
     //////////////
 	// GERMAN   //
 	//////////////
-	if ([tokenset count] > 1 && [tokenset containsObject:@"zeig"]&& [tokenset containsObject:@"mir"] )
+	if ([tokenset count] > 1 && [tokenset containsObject:@"zeige"]&& [tokenset containsObject:@"mir"] )
 	{
         
         NSString *stringWeGot = @"";
         for (NSString *curToken in tokens) {
-            if (![curToken isEqualToString:@"zeig"] && ![curToken isEqualToString:@"mir"] && ![curToken isEqualToString:@"den"] && ![curToken isEqualToString:@"ein"] && ![curToken isEqualToString:@"eine"]) {
+            if (![curToken isEqualToString:@"zeige"] && ![curToken isEqualToString:@"mir"] && ![curToken isEqualToString:@"den"] && ![curToken isEqualToString:@"ein"] && ![curToken isEqualToString:@"eine"]) {
                 if([stringWeGot isEqualToString:@""]) {
                     stringWeGot = [NSString stringWithFormat:@"%@%@",stringWeGot,curToken];
                 } else {
