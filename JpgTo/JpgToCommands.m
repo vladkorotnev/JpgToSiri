@@ -77,12 +77,12 @@
 	//////////////
 	// FRENCH   //
 	//////////////
-	if ([tokenset count] > 1 && [tokenset containsObject:@"montrez-moi"] )
+	if ([tokenset count] > 1 && ([tokenset containsObject:@"montrez-moi"] || [tokenset containsObject:@"Montrez-moi"]))
 	{
 
         NSString *stringWeGot = @"";
         for (NSString *curToken in tokens) {
-            if (![curToken isEqualToString:@"montrez-moi"]) {
+            if (![curToken isEqualToString:@"montrez-moi"] && ![tokenset containsObject:@"Montrez-moi"]) {
                 if([stringWeGot isEqualToString:@""]) {
                     stringWeGot = [NSString stringWithFormat:@"%@%@",stringWeGot,curToken];
                 } else {
@@ -234,13 +234,13 @@
 	//  JAPANESE  //
 	////////////////
 	
-    /*
-    if ([tokenset count] > 1 && [tokenset containsObject:@"私は"]&& [tokenset containsObject:@"表示"])
+    
+    if ([tokenset count] > 1 && [tokenset containsObject:@"表示"])
 	{
         
         NSString *stringWeGot = @"";
         for (NSString *curToken in tokens) {
-            if (![curToken isEqualToString:@"私は"] && ![curToken isEqualToString:@"表示"]) {
+            if (![curToken isEqualToString:@"表示"]&&![curToken isEqualToString:@"お"]&&![curToken isEqualToString:@"を"]) {
                 if([stringWeGot isEqualToString:@""]) {
                     stringWeGot = [NSString stringWithFormat:@"%@%@",stringWeGot,curToken];
                 } else {
@@ -276,7 +276,7 @@
         
         
 		NSMutableArray* views = [NSMutableArray arrayWithCapacity:2];
-		[views addObject:[ctx createAssistantUtteranceView:[NSString stringWithFormat:@"Вот как выглядит %@",stringWeGot]]];
+		[views addObject:[ctx createAssistantUtteranceView:@"ここで私が見つけたものです。"]];
 		[views addObject:[ctx createSnippet:@"JpgToSnippet" properties:snipProps]];
 		[ctx sendAddViews:views];
         
@@ -286,7 +286,7 @@
 		[ctx sendRequestCompleted];
 		
 		return YES; // handled by extension
-	} */
+	} 
     
 	return NO;
 }
